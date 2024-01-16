@@ -1,8 +1,7 @@
  ```
  #import <Hzmmsht.h>
 
- WtshNo name = shc(sawada);
- name.desu();
+ WtshNo name = shc(sawada).desu;
  Yoroshiku onegai_shimasu();
 
  fun OfFujii() -> Kaze {
